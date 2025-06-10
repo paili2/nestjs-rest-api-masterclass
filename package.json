@@ -1,0 +1,11 @@
+{
+  "name": "inflearn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/paili2/nestjs-rest-api-masterclass.git",
+  "author": "paili2 <zxcv7502@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
